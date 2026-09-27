@@ -3002,6 +3002,11 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [qiaohu23/heyrepli](https://github.com/qiaohu23/heyrepli) [![HeyRepli MCP server](https://glama.ai/mcp/servers/qiaoh
+  u23/heyrepli/badges/score.svg)](https://glama.ai/mcp/servers/qiaohu23/heyrepli) 📇 ☁️- Social media API for SMB
+  owners: scrape 11 platforms (YouTube/TikTok/IG/X/LinkedIn/FB/Threads/Bluesky/Mastodon/Reddit), AI-rewrite content in
+  your voice, publish + schedule across 10 targets. Open-source TS SDK + MCP server. Free 50 replies/month.
+
 - [A1-x-Tech/mcp-yandex-audience](https://github.com/A1-x-Tech/mcp-yandex-audience) [![A1-x-Tech/mcp-yandex-audience MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-audience/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-audience) 📇 ☁️ - Yandex Audience API: build and manage ad-targeting segments (CRM uploads, lookalike, pixel-based) and access grants.
 - [AIOProductOS/studio-mcp](https://github.com/AIOProductOS/studio-mcp) [![AIOProductOS/studio-mcp MCP server](https://glama.ai/mcp/servers/AIOProductOS/studio-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AIOProductOS/studio-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - Local, scripted screen recordings of your web app with a moving pointer, zooms, callouts, captions and transitions, plus screenshots and MP4/GIF export.
 - [D4umak/linkedin-outreach-mcp](https://github.com/D4umak/linkedin-outreach-mcp) [![D4umak/linkedin-outreach-mcp MCP server](https://glama.ai/mcp/servers/D4umak/linkedin-outreach-mcp/badges/score.svg)](https://glama.ai/mcp/servers/D4umak/linkedin-outreach-mcp) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - LinkedIn outreach for prospecting, recruiting and job search: find people, message them in your voice, follow up and handle replies.
